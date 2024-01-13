@@ -3,7 +3,7 @@
 2. Upload the script to your web server nd give it **permission 777**.
 3. Edit the settings with your access data on **cron.php**.
 4. Access the file from the browser to see if everything is right **(yourdomain.com/cron.php?api_protected=Papix)**.
-5. Now to make the backups automatic just create the cron with the time you want (in case you don't know see this topic: [Click Here](https://metin2.dev/topic/29215-php-discord-automatic-messages-cronwebhook/ "Click Here"))
+5. Now to make the backups automatic just create the cron with the time you want.
 
 # Notes
 - For security reasons do not **forget** to **change** the **api key**.
